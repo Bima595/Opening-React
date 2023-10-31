@@ -33,7 +33,7 @@
 .container {
   margin-top: 20rem;
   margin-bottom: 20rem;
-  margin-left: auto; /* Center the container horizontally */
+  margin-left: 150px; /* Center the container horizontally */
   margin-right: auto; /* Center the container horizontally */
 }
 
